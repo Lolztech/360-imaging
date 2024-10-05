@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/360-imaging/static/css/main.80295b44.css",
+    "main.js": "/360-imaging/static/js/main.fc94e0fd.js",
+    "static/js/453.85dce8b4.chunk.js": "/360-imaging/static/js/453.85dce8b4.chunk.js",
+    "index.html": "/360-imaging/index.html",
+    "main.80295b44.css.map": "/360-imaging/static/css/main.80295b44.css.map",
+    "main.fc94e0fd.js.map": "/360-imaging/static/js/main.fc94e0fd.js.map",
+    "453.85dce8b4.chunk.js.map": "/360-imaging/static/js/453.85dce8b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80295b44.css",
+    "static/js/main.fc94e0fd.js"
+  ]
+}
